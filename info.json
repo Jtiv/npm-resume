@@ -1,0 +1,21 @@
+{
+    "name": "James Thompson",
+    "website": ["http://jamesthompsoniv.com/", "bishopvisual.com"],
+    "linkedin": "https://www.linkedin.com/in/james-thompson-525245aa/",
+    "github":"https://github.com/Jtiv",
+    "email":"jthompiv@gmail.com",
+    "resume":"https://docs.google.com/document/d/1eN0G8m8z1o6WoGD9jGBd4yi6gz9eqAVAPykJKdRHifM/edit",
+    "proficientTechnologies":[
+        "Javascript",
+        "HTML",
+        "CSS", 
+        "Unity C#",
+        "Project Management"
+    ],
+    "otherSkills":[
+        "Dungeons and Dragons",
+        "Game Design",
+        "Music",
+        "Creative Writing"
+    ]
+}
